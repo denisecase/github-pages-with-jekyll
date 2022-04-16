@@ -1,4 +1,4 @@
 ---
-title:  "Welcome to Jekyll!"
+title: "Your blog post title"
 date: 2022-04-16
 ---
